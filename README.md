@@ -77,7 +77,7 @@ dot.
    ```
    Total number of bytes printed: 0
    ```
-7. This program can be invoked with option: -u username. In this case, it must print:
+7. This program can be invoked with option: `-u username`. In this case, it must print:
    ```
    User username:
    Total number of files printed: <number of files printed for user username>
